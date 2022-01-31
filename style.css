@@ -264,6 +264,9 @@ hr{
 .btn2:hover{
     width: 120px;
 }
+/* From here toggle codes taken from Jason Tyler project
+Thanks to Jason Tyler
+*/
 .wrapper {
     position: absolute;
     left: 0;
@@ -438,12 +441,4 @@ hr{
         width: 120px;
     }
 }
-/* @media screen and (max-height: 610px){
-    .container{
-        height: 460px;
-    }
-    .top{
-        height: 250px;
-        clip-path: circle(360px at 50% -48.5%);
-    }
-} */
+
