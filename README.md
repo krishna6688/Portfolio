@@ -17,6 +17,10 @@
 # Credit
 Jason Tyler for toggle.
 
+# License
+
+[![License](https://img.shields.io/badge/Apache-2.0-red?style=flat-square)](https://github.com/krishna6688/Portfolio/blob/main/LICENSE)
+
 # Hosting
 
 Host in any platform, codes are responsive as well as friendly and simple to understand.
