@@ -10,8 +10,8 @@
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/krishna6688/Portfolio)
-[![Stars](https://img.shields.io/github/stars/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/KeinShin/Black-Lightning?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
+[![Stars](https://img.shields.io/github/stars/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
+[![Forks](https://img.shields.io/github/forks/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
 ![Repo Size](https://img.shields.io/github/repo-size/krishna6688/Portfolio?style=flat-square)
 
 # Credit
