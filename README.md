@@ -6,8 +6,6 @@
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Portfolio/)
 [![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishna6688/Portfolio/fork)
 
-<h5 align="center">Join our group for more themes and updates <a href="https://t.me/web_zone>@Web_Zone</a></h5>
-
 <img src="http://telegra.ph//file/7f621c37c0a6b908a388d.jpg">
 
 
