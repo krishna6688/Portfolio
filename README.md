@@ -1,10 +1,10 @@
 <h1 align="center">Portfolio Theme</h1>
 <p><b>A light weight , responsive portfolio theme by <a href="https://t.me/hacker11000">Krishna</a></b></p>
-<br>
-<br>
 
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Portfolio/)
 [![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishna6688/Portfolio/fork)
+
+<p> Join our group for more templates and updates <a href="https://t.me/web_zone"><b>@Web_Zone</b></a></p>
 
 <img src="http://telegra.ph//file/7f621c37c0a6b908a388d.jpg">
 
