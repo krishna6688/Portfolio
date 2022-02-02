@@ -1,5 +1,5 @@
 <h1 align="center">Portfolio Theme</h1>
-<p><b>A light weight , responsive portfolio theme by <a href="https://t.me/hacker11000">Krishna</a></b></p>
+<p><b>A light weight , responsive portfolio theme by <a href="https://github.com/krishna6688">Krishna</a></b></p>
 
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Portfolio/)
 [![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishna6688/Portfolio/fork)
@@ -13,6 +13,15 @@
 [![Stars](https://img.shields.io/github/stars/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
 [![Forks](https://img.shields.io/github/forks/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
 ![Repo Size](https://img.shields.io/github/repo-size/krishna6688/Portfolio?style=flat-square)
+
+## Connect with me:
+[<img align="left" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+
+[website]: https://krishna6688.me
+[telegram]: https://t.me/hacker11000
 
 # Credit
 Jason Tyler for toggle.
